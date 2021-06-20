@@ -3,3 +3,4 @@ voila-material
 bqplot
 plotly
 matplotlib
+sklearn
